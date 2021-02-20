@@ -1,0 +1,44 @@
+p{
+    font-family: verdana;
+    font-size: 20px; }
+
+body{
+    background-color: rgb(250, 249, 249);
+    border-style: dotted;
+    padding-right: 3px;
+    }
+h1,h2,h3,h4{
+        color: rgb(0, 0, 0);
+        text-align: center;
+            }
+.div1   {
+    border: rgb(199, 211, 31);
+    border-width: 2px;
+    border-style: ridge;
+    ;
+}
+.table1  {
+    background-color: rgb(96, 167, 26);
+    border-color: rgb(105, 131, 218);
+    border-style: dashed;
+}   
+
+.button {
+    align-items: center;
+    background-color: #6cd119; /* Green */
+    border: 2px;
+    padding: 10px;
+    color: deeppink;
+    padding: 20px 40px;
+    text-align: center;
+    display: inline-block;
+    
+    
+}
+.btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7,.btn8,.btn9,.btn10 {
+    border-radius: 8px;
+    align-items: center;
+   }
+.btn11,.btn12 {
+    border-radius: 8px ;
+}
